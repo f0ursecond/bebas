@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+
+
+
+.main h2 {
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+}
+
+.main table {
+    margin: auto;
+   
+}
+
+.main tr, th , td {
+    letter-spacing: 1.5px;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+}

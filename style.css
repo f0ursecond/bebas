@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+
+
+
+.gambar {
+    padding-top: 8%;
+    height: 400px;
+    width: auto;
+    display: inline-flex;
+}
+
+.anjay {
+    display: inline-flex;
+    padding-top: 8%;
+}
+
+.container h1 {
+    margin-top: 15%;
+    font-size: 35px;
+    font-family: 'Karla', sans-serif;
+}
+
+.container p {
+    font-family: 'Inter', sans-serif;
+    text-align: justify;
+}
